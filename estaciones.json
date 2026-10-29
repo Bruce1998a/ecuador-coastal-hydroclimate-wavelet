@@ -763,5 +763,14 @@
     "canton": "SANTA ELENA",
     "lat": -2.08704,
     "lon": -80.52009
+  },
+  {
+    "station_id": "E-OM-086",
+    "station_code": "E-OM-SDT-01",
+    "dpa_canton": 2301,
+    "provincia": "SANTO DOMINGO DE LOS TSACHILAS",
+    "canton": "SANTO DOMINGO",
+    "lat": -0.34092,
+    "lon": -79.17021
   }
 ]
