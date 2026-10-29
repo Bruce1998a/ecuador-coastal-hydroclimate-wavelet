@@ -4,15 +4,6 @@ Plataforma web interactiva de acceso libre y código abierto para el monitoreo d
 
 ---
 
-## 🚀 Despliegue en GitHub Pages (en 1 minuto)
-
-1. Sube este repositorio a tu cuenta de GitHub.
-2. Ve a **Settings** > **Pages** en tu repositorio.
-3. En **Branch**, selecciona `main` y la carpeta `/web_platform` (o la raíz si mueves `index.html` allí).
-4. Haz clic en **Save**. ¡Tu plataforma web estará disponible públicamente y de forma 100% gratuita!
-
----
-
 ## 📊 Estructura de la Plataforma
 
 * **Selector de Cantón:** Permite explorar cualquiera de los 85 cantones continentales de las provincias de Esmeraldas, Manabí, Santa Elena, Guayas, Los Ríos y El Oro.
@@ -24,6 +15,4 @@ Plataforma web interactiva de acceso libre y código abierto para el monitoreo d
 
 ---
 
-## 📄 Cita Científica (Artículo Acta Oceanográfica)
-
-> Red de Estaciones Virtuales Open-Meteo (E-OM) para el análisis de tendencias climáticas, eventos El Niño y pronóstico en los cantones costeros del Ecuador (1981–2026). *Acta Oceanográfica del Pacífico*.
+## 📄 Cita Científica 
